@@ -1,4 +1,4 @@
-# Employee Directory App
+# Java Employee Directory
 
 **Description:** A ready-to-use Spring Boot MVC app for selecting, adding, modifying, and deleting employee records via an SQL database.
 
