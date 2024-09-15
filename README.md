@@ -4,5 +4,4 @@
 
 **Prerequisite:** Ability to host app on a simple web server (e.g., [Tomcat](https://tomcat.apache.org/) server).
 
-TODO #1: Insert screenshot of polished program into this README file.  
-TODO #2: Create step-by-step guide for how to setup and use app.
+TODO: Create step-by-step guide for how to setup and use app, including screenshot of polished program.
