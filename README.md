@@ -4,4 +4,4 @@
 
 **Prerequisite:** Ability to host: a) the app on a simple web server (e.g., [Tomcat](https://tomcat.apache.org/) server), and b) an SQL database.
 
-TODO: Create step-by-step guide for how to setup and use app, including screenshot of polished program.
+TODO: Include screenshot of polished program with identification of interface components.
