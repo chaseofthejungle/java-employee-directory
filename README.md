@@ -7,5 +7,6 @@
   
 ## Supplemental Resources
   
+* *[MySQL: Understanding What It Is and How It’s Used [Official Oracle Article]](https://www.oracle.com/mysql/what-is-mysql/)*
 * *[Serving Web Content with Spring MVC [spring.io page]](https://spring.io/guides/gs/serving-web-content)*
 * *[Official Apache Tomcat Website](https://tomcat.apache.org/)*
